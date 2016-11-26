@@ -1,8 +1,0 @@
-baseurl = "http://andrewandjamie.com"
-title = "Andrew and Jamie Wedding"
-languageCode = "en-us"
-
-contentdir = "content"
-layoutdir = "static"
-publishdir = "public"
-canonifyurls = true
