@@ -377,7 +377,7 @@ img.with-border{
 
 #nav-bar.bottom-bar.stick-it{
 	position:fixed;
-	height:145px; 
+	height:90px; 
 	width:100%;
 	background-color:#FFF;
 	z-index:1500;
@@ -624,7 +624,7 @@ img.with-border{
 /*-----------------------------------------------*/
 #menuicon-bar{
 	position:absolute;
-	height:145px; 
+	height:90px; 
 	z-index:1000;
 	background-color:transparent;
 	margin:auto;
@@ -925,7 +925,7 @@ img.with-border{
 #main-slider.fixed-height{
 	position:relative;
 	height:625px;
-  top:145px;
+  top:90px;
 }
 
 /* ----------------------------------------------*/
