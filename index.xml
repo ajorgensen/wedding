@@ -554,6 +554,227 @@
     
     <item>
       <title></title>
+      <link>http://jamieplusandrew.com/location/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jamieplusandrew.com/location/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en&#34;&gt;
+  &lt;head&gt;
+    {{ partial &#34;header.html&#34; . }}
+  &lt;/head&gt;
+
+  &lt;body class=&#34;slider-title-page&#34;&gt;
+    &lt;!-- NAVIGATION --&gt;   
+    {{ partial &#34;nav.html&#34; (dict &#34;navClass&#34; &#34;top-bar fluid-width block-color nav-center sticky-nav&#34;) }}
+
+    &lt;!-- MAIN SLIDER --&gt;
+    &lt;section id=&#34;main-slider&#34; class=&#34;fixed-height&#34;&gt;      	
+
+      &lt;!-- MAIN SLIDER TITLE OUTTER WRAPPER --&gt;
+      &lt;div class=&#34;slide-title-outter-wrapper&#34;&gt;
+
+        &lt;!-- MAIN SLIDER TITLE INNER WRAPPER --&gt;
+        &lt;div class=&#34;slide-title-inner-wrapper&#34;&gt;
+
+          &lt;!-- TITLE 1  --&gt;
+          &lt;div class=&#34;slide-title align-middle&#34;&gt;
+
+            &lt;div class=&#34;container&#34;&gt;
+              &lt;div class=&#34;row&#34;&gt;
+                &lt;div class=&#34;col-md-offset-2 col-md-8&#34;&gt;
+
+                  &lt;div class=&#34;page-title&#34;&gt;
+
+                    &lt;div style=&#34;padding-top:145px&#34;&gt;
+                      &lt;h1 class=&#34;animation bounceInLeft&#34;&gt;AT GIBBET HILL BARN&lt;/h1&gt;
+
+                      &lt;a href=&#34;https://goo.gl/maps/pCn8h4GCt722&#34; target=&#34;_blank&#34; class=&#34;de-button outline medium animation delay1 bounceInRight smooth-scroll&#34;&gt;
+                        GET DIRECTIONS
+                      &lt;/a&gt;
+                    &lt;/div&gt;
+
+                  &lt;/div&gt;
+
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+
+          &lt;/div&gt;
+
+        &lt;/div&gt;&lt;!-- END of MAIN SLIDER TITLE INNER WRAPPER --&gt;
+
+      &lt;/div&gt; &lt;!-- END of MAIN SLIDER TITLE OUTTER WRAPPER --&gt;
+
+      &lt;!-- MAIN SLIDER IMAGES --&gt;            
+      &lt;div class=&#34;slides&#34;&gt;
+        &lt;!-- SLIDE IMAGE --&gt;
+        &lt;div data-stellar-ratio=&#34;0.5&#34; class=&#34;slide-image&#34; style=&#34;background-image:url(/images/gibbet-hill-1920-1080.jpg); background-position:center bottom&#34;&gt;
+        &lt;/div&gt;
+
+        &lt;div class=&#34;slide-overlay&#34;&gt; &lt;/div&gt;    
+      &lt;/div&gt;	&lt;!-- END of MAIN SLIDER IMAGES --&gt;
+      n
+    &lt;/section&gt;&lt;!-- ENF of MAIN SLIDER --&gt;
+
+
+
+    &lt;!--CONTENT SECTION--&gt;
+    &lt;section id=&#34;content&#34;&gt;
+
+      &lt;!-- CONTAINER --&gt;
+      &lt;div class=&#34;container&#34;&gt;
+
+        &lt;!-- ROW-1 --&gt;
+        &lt;div class=&#34;row&#34;&gt;
+
+          &lt;div class=&#34;col-md-offset-1 col-md-10&#34;&gt;
+
+            &lt;div class=&#34;white-box-content-wrapper animation fadeInLeft&#34;&gt;
+              &lt;h3&gt;CEREMONY AND PARTY LOCATION&lt;/h3&gt;
+              &lt;span&gt;
+                The Barn at Gibbet Hill&lt;br/&gt;
+                61 Lowell Rd, Groton, MA 01450   
+                &lt;br/&gt;&lt;br/&gt;
+              &lt;/span&gt;
+              &lt;p&gt;
+                The ceremony and the reception will take place at the Barn at Gibbet Hill in Groton, Massachusetts. The barn is over 100 years old, and is located next to the Gibbet Hill Grill, which is one of the only restaurants in New England with a produce farm on site. The bulk of the produce for Gibbet Hill is grown at the farm and kept at its own root cellar and winter greenhouses. 
+              &lt;/p&gt; 
+              &lt;!--&lt;img src=&#34;http://placehold.it/600x400&#34; alt=&#34;&#34; class=&#34;fullwidth&#34;&gt;--&gt;
+            &lt;/div&gt;
+
+          &lt;/div&gt;
+
+        &lt;/div&gt;&lt;!--END of ROW-1--&gt;
+
+
+
+        &lt;!-- ROW-2 --&gt;
+        &lt;div class=&#34;row&#34;&gt;
+
+          &lt;div class=&#34;col-md-12 text-center animation fadeInUp&#34; style=&#34;padding-top:70px; padding-bottom:100px&#34;&gt;
+            &lt;h3&gt;PLACES OF INTEREST&lt;/h3&gt;
+          &lt;/div&gt;
+
+        &lt;/div&gt;&lt;!--END of ROW-2--&gt;
+
+
+        &lt;!-- ROW-3 --&gt;
+        &lt;div class=&#34;row&#34;&gt;
+
+          &lt;div class=&#34;col-md-offset-1 col-md-10&#34;&gt;
+
+            &lt;!-- INTEREST AROUND ROW-1 --&gt;
+            &lt;div class=&#34;row animation fadeIn&#34;&gt;
+
+              &lt;div class=&#34;col-md-4 &#34;&gt;
+                &lt;div class=&#34;interest-icon&#34;&gt;
+                  &lt;div class=&#34;de-icon circle small-size&#34; style=&#34;background-color:#6a6a6a&#34;&gt;
+                    &lt;i class=&#34;de-icon-food&#34;&gt;&lt;/i&gt;
+                  &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&#34;interest-blurb&#34;&gt;
+                  &lt;a href=&#34;https://goo.gl/maps/43yXES4YcU52&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Kimball Farm&lt;/strong&gt;&lt;/a&gt;
+                  &lt;p&gt;
+                    400 Littleton Road (Rt. 110)&lt;br/&gt;
+                    Westford, MA 01886
+                  &lt;/p&gt;
+
+                  &lt;p&gt;
+                    One of &lt;strong&gt;THE BEST&lt;/strong&gt; ice cream places ever, plus Jamie used to work here! Our favorite flavors include Vanilla Swiss Almond and Moose Tracks. Not only do they have amazeballs ice cream, but they have a billion other activities, including mini golf and batting cages.
+                  &lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+
+              &lt;div class=&#34;col-md-4&#34;&gt;
+                &lt;div class=&#34;interest-icon&#34;&gt;
+                  &lt;div class=&#34;de-icon circle small-size&#34; style=&#34;background-color:#67a80e&#34;&gt;
+                    &lt;i class=&#34;de-icon-food&#34;&gt;&lt;/i&gt;
+                  &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&#34;interest-blurb&#34;&gt;
+                  &lt;a href=&#34;https://goo.gl/maps/VVA3yRdnD882&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Nashoba Valley Winery&lt;/strong&gt;&lt;/a&gt;
+                  &lt;p&gt;
+                    100 Wattaquadock Hill Rd&lt;br/&gt;
+                    Bolton, MA 01740
+                  &lt;/p&gt;
+                  &lt;p&gt;This is a lovely little local winery overlooking the rolling hills of Bolton, Massachusetts.&lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+                &lt;div class=&#34;col-md-4&#34;&gt;
+                  &lt;div class=&#34;interest-icon&#34;&gt;
+                    &lt;div class=&#34;de-icon circle small-size&#34; style=&#34;background-color:#c89d1b&#34;&gt;
+                      &lt;i class=&#34;de-icon-apple&#34;&gt;&lt;/i&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                  &lt;div class=&#34;interest-blurb&#34;&gt;
+                    &lt;a href=&#34;https://goo.gl/maps/Vt4yNCXDPjG2&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Carlson Orchards&lt;/strong&gt;&lt;/a&gt;
+                    &lt;p&gt;
+                      115 Oak Hill Rd&lt;br/&gt;
+                      Harvard, MA 01451
+                    &lt;/p&gt;
+                    &lt;p&gt;Harvard doesn’t have much, but we DO have apples! Enjoy the fall in Harvard, MA by picking your own apples and eating some cider donuts at Carlson Orchards.&lt;/p&gt;
+                  &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+            &lt;div class=&#34;row animation fadeIn&#34;&gt;
+              &lt;div class=&#34;col-md-4&#34;&gt;
+                &lt;div class=&#34;interest-icon&#34;&gt;
+                  &lt;div class=&#34;de-icon circle small-size&#34; style=&#34;background-color:#f0394d&#34;&gt;
+                    &lt;i class=&#34;de-icon-basket&#34;&gt;&lt;/i&gt;
+                  &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&#34;interest-blurb&#34;&gt;
+                  &lt;a href=&#34;https://goo.gl/maps/qwPrRUXWGbw&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;The General Store&lt;/strong&gt;&lt;/a&gt;
+                  &lt;p&gt;
+                    1 Still River Rd&lt;br/&gt;
+                    Harvard, MA 01451
+                  &lt;/p&gt;
+                  &lt;p&gt;Harvard in a nutshell: a quaint little store/cafe selling coffee, pastries, and other small-town cute goods.&lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+
+              &lt;div class=&#34;col-md-4&#34;&gt;
+                &lt;div class=&#34;interest-icon&#34;&gt;
+                  &lt;div class=&#34;de-icon circle small-size&#34; style=&#34;background-color:#0d9a48&#34;&gt;
+                    &lt;i class=&#34;de-icon-star&#34;&gt;&lt;/i&gt;
+                  &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&#34;interest-blurb&#34;&gt;
+                  &lt;a href=&#34;https://goo.gl/maps/b2pBgzGykt12&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;The Bromfield School&lt;/strong&gt;&lt;/a&gt;
+                  &lt;p&gt;
+                    14 Massachusetts Ave&lt;br/&gt;
+                    Harvard, MA 01451
+                  &lt;/p&gt;
+
+                  &lt;p&gt;Where it all began &lt;3&lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+
+            &lt;/div&gt;
+
+          &lt;/div&gt;
+
+        &lt;/div&gt;&lt;!--END of ROW-2--&gt;
+
+      &lt;/div&gt; &lt;!-- END of CONTAINER --&gt;
+
+    &lt;/section&gt; &lt;!--END of CONTENT SECTION--&gt;   
+
+    &lt;!--&lt;footer&gt;
+      &lt;div id=&#34;map-canvas&#34; style=&#34;height:550px; width:100%;&#34;&gt;&lt;/div&gt;
+    &lt;/footer&gt;     --&gt;
+
+    {{ partial &#34;footer.html&#34; . }}
+
+  &lt;/body&gt;
+&lt;/html&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://jamieplusandrew.com/rsvp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -566,6 +787,7 @@
 
 	&lt;body class=&#34;slider-title-page&#34;&gt;
     {{ partial &#34;nav.html&#34; (dict &#34;navClass&#34; &#34;top-bar fluid-width block-color nav-center sticky-nav&#34;) }}
+
     &lt;section id=&#34;content&#34;&gt;
 			&lt;div class=&#34;container&#34; style=&#34;margin-top: 4em;&#34;&gt;
                 &lt;form method=&#34;post&#34; action=&#34;rsvp.php&#34; id=&#34;rsvpform&#34;&gt;
