@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+    {{ partial "header.html" . }}
+	</head>
+
+	<body class="slider-title-page">
+    {{ partial "nav.html" (dict "navClass" "top-bar fluid-width block-color nav-center sticky-nav") }}
+    <section id="content">
+			<div class="container" style="margin-top: 4em;">
+                <form method="post" action="rsvp.php" id="rsvpform">
+                <!--TEXT SECTION-->
+                <div class="row">
+                	<div id="message" class="col-md-offset-2 col-md-8 message">
+                    	<!-- Show Message -->
+                    </div>
+                </div>
+                <div class="row">
+                	<div class="col-md-offset-2 col-md-8">
+                    	
+                        	<div class="row">
+                            	<div class="col-md-6">
+                                	<div class="form-group">
+    									<label for="inputname">*FIRST NAME</label>
+                                        <div class="input-group">
+     										<div class="input-group-addon"><i class="de-icon-heart-empty"></i></div>
+    										<input type="text" class="form-control ajax-input" id="inputname" placeholder="" data-required="First Name Required" data-output-label="Output First Name">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                	<div class="form-group">
+    									<label for="inputname">LAST NAME</label>
+                                        <div class="input-group">
+     										<div class="input-group-addon"><i class="de-icon-heart-empty"></i></div>
+    										<input type="text" class="form-control ajax-input" id="inputlastname" placeholder="" data-required="" data-output-label="Output Last Name">
+                                        </div>
+                                     </div>
+                                </div>
+                           
+                        </div>
+                        <div class="form-group">
+    						<label for="inputemail">*EMAIL</label>
+                            <div class="input-group">
+                            	<div class="input-group-addon"><i class="de-icon-mail"></i></div>
+    							<input type="email" id="inputemail"  class="form-control ajax-input" placeholder="" data-required="Email Required" data-output-label="Output Email">
+                          	</div>
+ 						</div>
+                        
+                        <div class="form-group">
+                            <label>*I WILL ATTEND TO</label>
+                           	<div id="events-checkbox" class="ajax-input ajax-checkbox" data-required="Please Select Events" data-output-label="I will attend to">
+                            	<div class="btn-group" data-toggle="buttons">
+  									<label class="btn btn-primary custom-option-icon">
+    									<input type="checkbox" id="wedding-ceremony" value="Wedding Ceremony"> Wedding Ceremony
+  									</label>
+                               		<label class="btn btn-primary custom-option-icon">
+    									<input type="checkbox" id="wedding-party" value="Wedding Party"> Wedding Party
+  									</label>
+                                    <label class="btn btn-primary custom-option-icon">
+    									<input type="checkbox" id="dance-party" value="Dance Party"> Dance Party
+  									</label>
+                                </div>
+							</div> 
+                     	</div>                         
+                        
+                        <div class="form-group">
+    						<label for="inputmessage">LEAVE YOUR MESSAGE</label>
+    						<textarea id="inputmessage" class="form-control ajax-input" rows="14" data-output-label="Output Message"></textarea>
+ 						</div>       
+                        
+                        <div class="form-group submit-wrapper">
+    						<input type="submit" id="submitButton"  name="submitButton" class="button medium reverse" value="SUBMIT" style="width:100%;">
+ 						</div>
+                              
+                    </div>
+                   
+				</div><!--END of TEXT SECTION-->
+                
+              
+                </form>
+           	</div><!-- END of CONTAINER -->    
+                        
+        </section> <!--END of CONTENT SECTION-->        
+        
+        {{ partial "footer.html" . }}
+        
+	</body>
+</html>
