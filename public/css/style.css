@@ -2627,6 +2627,10 @@ footer .image-divider.fixed-height{
 	vertical-align:top;
 }
 
+.interest-blurb a{
+  text-decoration: underline;
+}
+
 /* ----------------------------------------------*/
 /* 13.2 RSVP-2 Page				 			 	 */
 /* ----------------------------------------------*/
