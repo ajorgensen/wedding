@@ -21,27 +21,6 @@
   &lt;/head&gt;
 
   &lt;body&gt;
-    &lt;!--PRELOADER--&gt;
-    &lt;div id=&#34;preloader&#34;&gt;
-
-      &lt;div class=&#34;alignment&#34;&gt;
-        &lt;div class=&#34;v-align center-middle&#34;&gt; 
-
-          &lt;!-- LEFT HEART --&gt;
-          &lt;div class=&#34;heart-animation&#34;&gt;                	
-            &lt;i class=&#34;de-icon-heart&#34;&gt;&lt;/i&gt;
-          &lt;/div&gt;
-
-          &lt;!-- RIGHT HEART --&gt;
-          &lt;div class=&#34;heart-animation-reverse&#34;&gt;
-            &lt;i class=&#34;de-icon-heart&#34;&gt;&lt;/i&gt;
-          &lt;/div&gt;     
-
-        &lt;/div&gt;
-      &lt;/div&gt;
-
-    &lt;/div&gt; &lt;!--END of PRELOADER--&gt;
-
     {{ partial &#34;nav.html&#34; (dict &#34;navClass&#34; &#34;top-bar fluid-width transparent nav-center sticky-nav animation fadeInDown&#34;) }}
 
     &lt;!-- MAIN SLIDER --&gt;
@@ -349,7 +328,7 @@
                         &lt;div class=&#34;alignment&#34;&gt;
                           &lt;div class=&#34;v-align center-middle&#34;&gt;
 
-                            &lt;a href=&#34;location.html&#34; class=&#34;de-button outline small&#34;&gt;
+                            &lt;a href=&#34;http://jamieplusandrew.com/location&#34; class=&#34;de-button outline small&#34;&gt;
                               GET DIRECTIONS
                             &lt;/a&gt;
 
@@ -361,7 +340,7 @@
 
                     &lt;!-- TITLE &amp; EXCERPT --&gt;
                     &lt;div class=&#34;title-excerpt&#34;&gt;
-                      &lt;h3&gt;&lt;a href=&#34;location.html&#34;&gt;LOCATION&lt;/a&gt;&lt;/h3&gt;
+                      &lt;h3&gt;&lt;a href=&#34;http://jamieplusandrew.com/location&#34;&gt;LOCATION&lt;/a&gt;&lt;/h3&gt;
                       &lt;!--&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ultrices malesuada ante quis pharetra. Nullam non &lt;/p&gt;--&gt;
                     &lt;/div&gt;
                     &lt;!-- END of TITLE &amp; EXCERPT --&gt;
