@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JAMIE &amp; ANDREW</title>
+    <link>http://jamieplusandrew.com/index.xml</link>
+    <description>Recent content on JAMIE &amp; ANDREW</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://jamieplusandrew.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://jamieplusandrew.com/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jamieplusandrew.com/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en&#34;&gt;
+  &lt;head&gt;
+    {{ partial &#34;header.html&#34; . }}
+  &lt;/head&gt;
+
+  &lt;body&gt;
+    &lt;!--PRELOADER--&gt;
+    &lt;div id=&#34;preloader&#34;&gt;
+
+      &lt;div class=&#34;alignment&#34;&gt;
+        &lt;div class=&#34;v-align center-middle&#34;&gt; 
+
+          &lt;!-- LEFT HEART --&gt;
+          &lt;div class=&#34;heart-animation&#34;&gt;                	
+            &lt;i class=&#34;de-icon-heart&#34;&gt;&lt;/i&gt;
+          &lt;/div&gt;
+
+          &lt;!-- RIGHT HEART --&gt;
+          &lt;div class=&#34;heart-animation-reverse&#34;&gt;
+            &lt;i class=&#34;de-icon-heart&#34;&gt;&lt;/i&gt;
+          &lt;/div&gt;     
+
+        &lt;/div&gt;
+      &lt;/div&gt;
+
+    &lt;/div&gt; &lt;!--END of PRELOADER--&gt;
+
+    {{ partial &#34;nav.html&#34; (dict &#34;navClass&#34; &#34;top-bar fluid-width transparent nav-center sticky-nav animation fadeInDown&#34;) }}
+
+    &lt;!-- MAIN SLIDER --&gt;
+    &lt;section id=&#34;main-slider&#34; class=&#34;flexslider fullscreen&#34;&gt;      	
+
+      &lt;!-- MAIN SLIDER TITLE OUTTER WRAPPER --&gt;
+      &lt;div class=&#34;slide-title-outter-wrapper&#34;&gt;
+
+        &lt;!-- MAIN SLIDER TITLE INNER WRAPPER --&gt;
+        &lt;div class=&#34;slide-title-inner-wrapper&#34;&gt;
+
+          &lt;!-- TITLE --&gt;
+          &lt;div class=&#34;slide-title align-middle&#34;&gt;
+
+            &lt;div class=&#34;container&#34;&gt;
+              &lt;div class=&#34;row&#34;&gt;
+                &lt;div class=&#34;col-md-offset-3 col-md-6 animation delay1 fadeInUp&#34;&gt;
+
+                  &lt;div id=&#34;save-the-date&#34;&gt;
+                    &lt;div id=&#34;save&#34;&gt;Save&lt;/div&gt;
+                    &lt;div id=&#34;the-date&#34;&gt;Our Date&lt;/div&gt;
+                    &lt;div id=&#34;date&#34;&gt;- 9&lt;span class=&#34;pink-dot&#34;&gt;.&lt;/span&gt;29&lt;span class=&#34;pink-dot&#34;&gt;.&lt;/span&gt;17 -&lt;/div&gt;
+                  &lt;/div&gt;
+                  &lt;div class=&#34;banner-text light medium&#34; style=&#34;letter-spacing:3px&#34;&gt;
+                    &lt;h4&gt;*** WE ARE GETTING MARRIED ***&lt;/h4&gt;
+                  &lt;/div&gt;         
+                  &lt;div class=&#34;heart-divider&#34; style=&#34;margin:0&#34;&gt;
+                    &lt;span class=&#34;white-line&#34; style=&#34;width:10px&#34;&gt;&lt;/span&gt;
+                    &lt;i class=&#34;de-icon-heart pink-heart&#34;&gt;&lt;/i&gt;
+                    &lt;i class=&#34;de-icon-heart white-heart&#34;&gt;&lt;/i&gt;
+                    &lt;span class=&#34;white-line&#34; style=&#34;width:10px&#34;&gt;&lt;/span&gt;
+                  &lt;/div&gt;
+
+
+                &lt;/div&gt; 
+              &lt;/div&gt;
+            &lt;/div&gt;
+
+          &lt;/div&gt; 
+
+        &lt;/div&gt;&lt;!-- END of MAIN SLIDER TITLE INNER WRAPPER --&gt;
+
+      &lt;/div&gt; &lt;!-- END of MAIN SLIDER TITLE OUTTER WRAPPER --&gt;
+
+      &lt;!-- MAIN SLIDER IMAGES --&gt;
+
+      &lt;ul class=&#34;slides&#34;&gt;
+
+
+        &lt;li&gt;
+          &lt;!-- SLIDE IMAGE --&gt;
+          &lt;div data-stellar-ratio=&#34;0.5&#34; class=&#34;slide-image&#34; style=&#34;background-image:url(images/slider/JamieAJ-003.jpg);&#34;&gt;
+          &lt;/div&gt;
+
+          &lt;!-- SLIDE OVERLAY --&gt;
+          &lt;div class=&#34;slide-overlay&#34; style=&#34;opacity:0.2&#34;&gt; &lt;/div&gt; 
+
+        &lt;/li&gt;
+
+
+        &lt;li&gt;
+          &lt;!-- SLIDE IMAGE --&gt;
+          &lt;div data-stellar-ratio=&#34;0.5&#34; class=&#34;slide-image&#34; style=&#34;background-image:url(images/slider/JamieAJ-032.jpg);&#34;&gt;
+          &lt;/div&gt;
+
+          &lt;!-- SLIDE OVERLAY --&gt;
+          &lt;div class=&#34;slide-overlay&#34; style=&#34;opacity:0.2&#34;&gt; &lt;/div&gt;
+        &lt;/li&gt;
+
+      &lt;/ul&gt;&lt;!-- END of MAIN SLIDER IMAGES --&gt;            
+
+    &lt;/section&gt;&lt;!-- ENF of MAIN SLIDER --&gt;
+
+
+
+    &lt;!--CONTENT SECTION--&gt;
+    &lt;section id=&#34;content&#34;&gt;
+
+      &lt;!--COUPLE SECTION--&gt;
+      &lt;section id=&#34;couple&#34;&gt;
+
+        &lt;div class=&#34;container&#34;&gt;
+          &lt;div class=&#34;row&#34;&gt;
+
+            &lt;!-- SECTION TITLE --&gt;
+            &lt;div class=&#34;col-md-offset-1 col-md-10 text-center&#34;&gt;
+
+              &lt;div class=&#34;section-title animation fadeInUp&#34; id=&#34;the-story&#34;&gt;
+                &lt;h1&gt;
+                  THE HAPPY COUPLE
+                &lt;/h1&gt;
+
+                &lt;p class=&#34;blurb&#34;&gt;
+                  In west of Boston, born of raised, on the soccer field is where they spent most their days...&lt;br /&gt;&lt;br /&gt;
+
+                  Andrew and Jamie met in high school when they were 16 years old. Unable to drive together, as they both only had driving permits, the beginning of their relationship mostly consisted of driving behind each other and meeting at the movies. Dozens of Rib-B-Qs, school dances, and soccer games later, Andrew and Jamie graduated from Bromfield, with Jamie heading to Lafayette College and AJ on his way to the land of Huskies. They continued dating throughout college and law school, and now both work in Boston. In 2015, Andrew proposed on the Cliffs of Moher in Ireland, as Jamie’s family desperately tried to hide in the field behind them. Jamie and Andrew will be getting married after 11 years of dating (longer than most Hollywood marriages. RIP Brangelina), and would be so honored if you could join them! Sláinte!
+                &lt;/p&gt;
+
+                &lt;div class=&#34;heart-divider&#34;&gt;
+                  &lt;span class=&#34;grey-line&#34;&gt;&lt;/span&gt;
+                  &lt;i class=&#34;de-icon-heart pink-heart&#34;&gt;&lt;/i&gt;
+                  &lt;i class=&#34;de-icon-heart grey-heart&#34;&gt;&lt;/i&gt;
+                  &lt;span class=&#34;grey-line&#34;&gt;&lt;/span&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+
+            &lt;!-- SECTION CONTENT --&gt;
+            &lt;div class=&#34;col-md-offset-1 col-md-5&#34;&gt;
+
+              &lt;!--PHOTO-ITEM--&gt;
+              &lt;div class=&#34;photo-item animation fadeInLeft&#34;&gt;
+
+                &lt;!--HIS-PHOTO--&gt;
+                &lt;img src=&#34;images/JamieAJ-027.jpg&#34; alt=&#34;&#34; class=&#34;hover-animation image-zoom-in&#34;&gt;
+
+                &lt;!--PHOTO OVERLAY--&gt;
+                &lt;div class=&#34;layer wh95 hidden-black-overlay hover-animation fade-in&#34;&gt;
+                &lt;/div&gt;&lt;!--END of PHOTO OVERLAY--&gt;
+
+                &lt;!--PHOTO CAPTION--&gt;
+                &lt;div class=&#34;layer wh95 border-photo-caption hover-animation fade-out&#34;&gt;
+                  &lt;div class=&#34;alignment&#34;&gt;
+                    &lt;div class=&#34;v-align center-bottom&#34;&gt;
+
+                      &lt;div&gt;
+                        &lt;div class=&#34;heart-divider&#34; style=&#34;margin:0&#34;&gt;
+                          &lt;i class=&#34;de-icon-heart pink-heart&#34;&gt;&lt;/i&gt;
+                          &lt;i class=&#34;de-icon-heart white-heart&#34;&gt;&lt;/i&gt;
+                        &lt;/div&gt;
+                        &lt;div class=&#34;banner-text light small&#34; style=&#34;letter-spacing:3px;&#34;&gt;
+                          &lt;h4&gt;*** THE GROOM ***&lt;/h4&gt;
+                        &lt;/div&gt;  
+                      &lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                &lt;/div&gt;&lt;!--END of PHOTO CAPTION--&gt;
+
+
+                &lt;!--ICON LINK--&gt;
+                &lt;div class=&#34;layer wh100 hidden-link hover-animation delay1 fade-in&#34;&gt;
+                  &lt;div class=&#34;alignment&#34;&gt;
+                    &lt;div class=&#34;v-align center-middle&#34;&gt; &lt;/div&gt;
+                  &lt;/div&gt;
+                &lt;/div&gt;&lt;!--END of ICON LINK--&gt;
+
+              &lt;/div&gt;&lt;!--END of PHOTO-ITEM--&gt;                                    
+
+              &lt;p class=&#34;couple-excerpt animation fadeInLeft&#34;&gt;
+              &lt;/p&gt;
+
+            &lt;/div&gt;
+
+            &lt;div class=&#34;col-md-5&#34;&gt;
+
+              &lt;!--PHOTO-ITEM--&gt;
+              &lt;div class=&#34;photo-item animation fadeInRight&#34;&gt;
+
+                &lt;!--HER-PHOTO--&gt;
+                &lt;img src=&#34;images/JamieAJ-019.jpg&#34; alt=&#34;&#34; class=&#34;hover-animation image-zoom-in&#34;&gt;
+
+                &lt;!--PHOTO OVERLAY--&gt;
+                &lt;div class=&#34;layer wh95 hidden-black-overlay hover-animation fade-in&#34;&gt;
+                &lt;/div&gt;&lt;!--END of PHOTO OVERLAY--&gt;
+
+                &lt;!--PHOTO CAPTION--&gt;
+                &lt;div class=&#34;layer wh95 border-photo-caption hover-animation fade-out&#34;&gt;
+                  &lt;div class=&#34;alignment&#34;&gt;
+                    &lt;div class=&#34;v-align center-bottom&#34;&gt;
+
+                      &lt;div&gt;
+
+                        &lt;div class=&#34;heart-divider&#34; style=&#34;margin:0&#34;&gt;
+                          &lt;i class=&#34;de-icon-heart pink-heart&#34;&gt;&lt;/i&gt;
+                          &lt;i class=&#34;de-icon-heart white-heart&#34;&gt;&lt;/i&gt;
+                        &lt;/div&gt;
+                        &lt;div class=&#34;banner-text light small&#34; style=&#34;letter-spacing:3px;&#34;&gt;
+                          &lt;h4&gt;*** THE BRIDE ***&lt;/h4&gt;
+                        &lt;/div&gt;  
+                      &lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                &lt;/div&gt;&lt;!--END of PHOTO CAPTION--&gt;
+
+                &lt;!--ICON LINK--&gt;
+                &lt;div class=&#34;layer wh95 hidden-link hover-animation delay1 fade-in&#34;&gt;
+                  &lt;div class=&#34;alignment&#34;&gt;
+                    &lt;div class=&#34;v-align center-middle&#34;&gt; &lt;/div&gt;
+                  &lt;/div&gt;
+                &lt;/div&gt;&lt;!--END of ICON LINK--&gt;
+
+              &lt;/div&gt;&lt;!--END of PHOTO-ITEM--&gt;  
+
+              &lt;p class=&#34;couple-excerpt animation fadeInRight&#34;&gt;
+              &lt;/p&gt;
+
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/section&gt;     
+
+
+      &lt;!-- LOCATION &amp; COUNTDOWN SECTION --&gt;
+      &lt;section id=&#34;location-countdown&#34;&gt;
+        &lt;div class=&#34;image-divider auto-height&#34; style=&#34;background-image:url(images/gibbet-hill.jpg);&#34; data-stellar-background-ratio=&#34;0.5&#34;&gt;
+
+          &lt;div class=&#34;divider-overlay&#34;&gt;&lt;/div&gt;
+
+          &lt;!-- Use Center Middle Alignment to align middle the content for fixed-height parallax
+          &lt;div class=&#34;alignment&#34;&gt; 
+            &lt;div class=&#34;v-align center-middle&#34;&gt; --&gt;                    	
+
+              &lt;div class=&#34;container&#34;&gt;                 	 
+                &lt;div class=&#34;row&#34;&gt;
+                  &lt;div class=&#34;col-md-offset-1 col-md-10 text-center&#34;&gt;
+
+                    &lt;div class=&#34;banner-text light medium animation fadeInUp&#34; style=&#34;letter-spacing:3px;&#34;&gt;
+                      &lt;h4&gt;*** AT GIBBET HILL GROTON, MA ***&lt;/h4&gt;
+                    &lt;/div&gt;   
+
+                    &lt;div class=&#34;animation fadeInUp&#34;&gt;
+                      &lt;div id=&#34;counting-down&#34;&gt;
+                        &lt;div id=&#34;counting&#34;&gt;Counting&lt;/div&gt;
+                        &lt;div id=&#34;down&#34;&gt;Down&lt;/div&gt;
+                      &lt;/div&gt;
+                    &lt;/div&gt;
+
+                    &lt;div class=&#34;heart-divider animation fadeInUp&#34;&gt;
+                      &lt;span class=&#34;white-line&#34;&gt;&lt;/span&gt;
+                      &lt;i class=&#34;de-icon-heart pink-heart&#34;&gt;&lt;/i&gt;
+                      &lt;i class=&#34;de-icon-heart white-heart&#34;&gt;&lt;/i&gt;
+                      &lt;span class=&#34;white-line&#34;&gt;&lt;/span&gt;
+                    &lt;/div&gt;
+
+                    &lt;div id=&#34;countdown&#34; class=&#34;simple-countdown animation fadeInUp&#34;&gt;&lt;/div&gt;
+
+                  &lt;/div&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+
+              &lt;!--&lt;/div&gt;
+          &lt;/div&gt;--&gt;
+
+        &lt;/div&gt;		
+      &lt;/section&gt;
+
+
+      &lt;!-- THE WEDDING SECTION --&gt;
+      &lt;section id=&#34;the-wedding&#34;&gt;
+
+        &lt;div class=&#34;container&#34;&gt;
+
+          &lt;!-- ROW-1 --&gt;
+          &lt;div class=&#34;row&#34;&gt;
+
+            &lt;!-- SECTION TITLE --&gt;
+            &lt;div class=&#34;col-md-12 text-center&#34;&gt;
+
+              &lt;div class=&#34;section-title animation fadeInUp&#34;&gt;
+                &lt;h2&gt;
+                  THE WEDDING
+                &lt;/h2&gt;
+
+                &lt;p class=&#34;blurb&#34;&gt;
+                  The ceremony and the reception will take place at the Barn at Gibbet Hill in Groton, Massachusetts.
+                &lt;/p&gt;
+
+                &lt;div class=&#34;heart-divider&#34;&gt;
+                  &lt;span class=&#34;grey-line&#34;&gt;&lt;/span&gt;
+                  &lt;i class=&#34;de-icon-heart pink-heart&#34;&gt;&lt;/i&gt;
+                  &lt;i class=&#34;de-icon-heart grey-heart&#34;&gt;&lt;/i&gt;
+                  &lt;span class=&#34;grey-line&#34;&gt;&lt;/span&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt; &lt;!-- END of ROW-1 --&gt;
+
+
+          &lt;!-- ROW-2 --&gt;
+          &lt;div class=&#34;row&#34;&gt;      
+
+            &lt;div class=&#34;col-md-offset-1 col-md-10&#34;&gt;
+
+              &lt;div class=&#34;container-fluid&#34;&gt;
+                &lt;div class=&#34;row&#34;&gt;
+
+                  &lt;!-- ITEM-1 --&gt;
+                  &lt;div class=&#34;wedding-item col-md-4 animation fadeIn&#34;&gt;
+
+                    &lt;!--PHOTO-ITEM--&gt;
+                    &lt;div class=&#34;photo-item&#34;&gt;
+
+                      &lt;!--PHOTO--&gt;
+                      &lt;img src=&#34;images/gibbet-outside.jpg&#34; alt=&#34;&#34; class=&#34;hover-animation image-zoom-in&#34;&gt;
+
+                      &lt;!--PHOTO OVERLAY--&gt;
+                      &lt;div class=&#34;layer wh95 hidden-black-overlay hover-animation fade-in&#34;&gt;
+                      &lt;/div&gt;&lt;!--END of PHOTO OVERLAY--&gt;
+
+                      &lt;div class=&#34;layer wh95 border-photo-caption fade-out&#34;&gt;
+                      &lt;/div&gt;&lt;!--END of PHOTO CAPTION--&gt;
+
+                      &lt;!--ICON LINK--&gt;
+                      &lt;div class=&#34;layer wh100 hidden-link hover-animation delay1 fade-in&#34;&gt;
+                        &lt;div class=&#34;alignment&#34;&gt;
+                          &lt;div class=&#34;v-align center-middle&#34;&gt;
+
+                            &lt;a href=&#34;location.html&#34; class=&#34;de-button outline small&#34;&gt;
+                              GET DIRECTIONS
+                            &lt;/a&gt;
+
+                          &lt;/div&gt;
+                        &lt;/div&gt;
+                      &lt;/div&gt;&lt;!--END of ICON LINK--&gt;
+
+                    &lt;/div&gt;&lt;!--END of PHOTO-ITEM--&gt; 
+
+                    &lt;!-- TITLE &amp; EXCERPT --&gt;
+                    &lt;div class=&#34;title-excerpt&#34;&gt;
+                      &lt;h3&gt;&lt;a href=&#34;location.html&#34;&gt;LOCATION&lt;/a&gt;&lt;/h3&gt;
+                      &lt;!--&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ultrices malesuada ante quis pharetra. Nullam non &lt;/p&gt;--&gt;
+                    &lt;/div&gt;
+                    &lt;!-- END of TITLE &amp; EXCERPT --&gt;
+
+                  &lt;/div&gt;&lt;!-- END of ITEM-1 --&gt;
+
+
+                  &lt;!-- ITEM-2 --&gt;
+                  &lt;div class=&#34;wedding-item col-md-4 animation delay1 fadeIn&#34;&gt;
+
+                    &lt;!--PHOTO-ITEM--&gt;
+                    &lt;div class=&#34;photo-item&#34;&gt;
+
+                      &lt;!--PHOTO--&gt;
+                      &lt;img src=&#34;images/gift-registry.jpg&#34; alt=&#34;&#34; class=&#34;hover-animation image-zoom-in&#34;&gt;
+
+                      &lt;!--PHOTO OVERLAY--&gt;
+                      &lt;div class=&#34;layer wh95 hidden-black-overlay hover-animation fade-in&#34;&gt;
+                      &lt;/div&gt;&lt;!--END of PHOTO OVERLAY--&gt;
+
+                      &lt;div class=&#34;layer wh95 border-photo-caption fade-out&#34;&gt;
+
+                      &lt;/div&gt;&lt;!--END of PHOTO CAPTION--&gt;
+
+                      &lt;!--ICON LINK--&gt;
+                      &lt;div class=&#34;layer wh100 hidden-link hover-animation delay1 fade-in&#34;&gt;
+                        &lt;div class=&#34;alignment&#34;&gt;
+                          &lt;div class=&#34;v-align center-middle&#34;&gt;
+
+                            &lt;a href=&#34;gift.html&#34; class=&#34;de-button outline small&#34;&gt;
+                              GIFT LIST
+                            &lt;/a&gt;
+
+                          &lt;/div&gt;
+                        &lt;/div&gt;
+                      &lt;/div&gt;&lt;!--END of ICON LINK--&gt;
+
+                    &lt;/div&gt;&lt;!--END of PHOTO-ITEM--&gt; 
+
+                    &lt;!-- TITLE &amp; EXCERPT --&gt;
+                    &lt;div class=&#34;title-excerpt&#34;&gt;
+                      &lt;h3&gt;&lt;a href=&#34;gift.html&#34;&gt;GIFT REGISTRY&lt;/a&gt;&lt;/h3&gt;
+                    &lt;/div&gt;
+                    &lt;!-- END of TITLE &amp; EXCERPT --&gt;
+
+                  &lt;/div&gt;&lt;!-- END of ITEM-2 --&gt;
+
+
+                  &lt;!-- ITEM-3 --&gt;
+                  &lt;div class=&#34;wedding-item col-md-4 animation delay2 fadeIn&#34;&gt;
+
+                    &lt;!--PHOTO-ITEM--&gt;
+                    &lt;div class=&#34;photo-item&#34;&gt;
+
+                      &lt;!--PHOTO--&gt;
+                      &lt;img src=&#34;images/courtyard.jpg&#34; alt=&#34;&#34; class=&#34;hover-animation image-zoom-in&#34;&gt;
+
+                      &lt;!--PHOTO OVERLAY--&gt;
+                      &lt;div class=&#34;layer wh95 hidden-black-overlay hover-animation fade-in&#34;&gt;
+                      &lt;/div&gt;&lt;!--END of PHOTO OVERLAY--&gt;
+
+                      &lt;div class=&#34;layer wh95 border-photo-caption fade-out&#34;&gt;
+
+                      &lt;/div&gt;&lt;!--END of PHOTO CAPTION--&gt;
+
+                      &lt;!--ICON LINK--&gt;
+                      &lt;div class=&#34;layer wh100 hidden-link hover-animation delay1 fade-in&#34;&gt;
+                        &lt;div class=&#34;alignment&#34;&gt;
+                          &lt;div class=&#34;v-align center-middle&#34;&gt;
+
+                            &lt;a href=&#34;accomodation.html&#34; class=&#34;de-button outline small&#34;&gt;
+                              ACCOMODATION
+                            &lt;/a&gt;
+
+                          &lt;/div&gt;
+                        &lt;/div&gt;
+                      &lt;/div&gt;&lt;!--END of ICON LINK--&gt;
+
+                    &lt;/div&gt;&lt;!--END of PHOTO-ITEM--&gt; 
+
+                    &lt;!-- TITLE &amp; EXCERPT --&gt;
+                    &lt;div class=&#34;title-excerpt&#34;&gt;
+                      &lt;h3&gt;&lt;a href=&#34;accomodation.html&#34;&gt;ACCOMODATION&lt;/a&gt;&lt;/h3&gt;
+                    &lt;/div&gt;
+                    &lt;!-- END of TITLE &amp; EXCERPT --&gt;
+
+                  &lt;/div&gt; &lt;!-- END of ITEM-3 --&gt;
+
+                &lt;/div&gt;
+
+
+              &lt;/div&gt;
+
+            &lt;/div&gt;                        
+          &lt;/div&gt;&lt;!-- END of ROW-2 --&gt;
+
+        &lt;/div&gt;&lt;!-- END of CONTAINER --&gt;
+
+      &lt;/section&gt;       
+
+
+      &lt;!-- RSVP SECTION --&gt;
+      &lt;section id=&#34;rsvp&#34;&gt;
+
+        &lt;div class=&#34;container&#34;&gt;
+          &lt;div class=&#34;row&#34;&gt;
+
+            &lt;!-- SECTION TITLE --&gt;
+            &lt;div class=&#34;col-md-12 text-center &#34;&gt;
+
+              &lt;div class=&#34;section-title animation fadeInUp&#34;&gt;
+                &lt;div class=&#34;heart-divider&#34;&gt;
+                  &lt;i class=&#34;de-icon-heart pink-heart&#34;&gt;&lt;/i&gt;
+                  &lt;i class=&#34;de-icon-heart grey-heart&#34;&gt;&lt;/i&gt;
+                &lt;/div&gt;
+
+                &lt;h2&gt;
+                  ARE YOU ATTENDING?
+                &lt;/h2&gt;
+
+                &lt;!--&lt;p&gt;
+                  Please RSVP before June 19th, 2015. Lorem ipsum dolor sit amet, consectetur adipiscing
+                &lt;/p&gt;--&gt;
+
+                &lt;a href=&#34;rsvp.html&#34; class=&#34;de-button medium animation fadeInUp&#34;&gt;
+                  RSVP
+                &lt;/a&gt;
+              &lt;/div&gt;
+
+            &lt;/div&gt;
+
+          &lt;/div&gt;
+        &lt;/div&gt;
+
+      &lt;/section&gt;
+
+
+
+
+    &lt;/section&gt;
+
+    &lt;!-- FOOTER SECTION --&gt;
+    &lt;footer&gt;
+      &lt;div class=&#34;image-divider fixed-height&#34; style=&#34;background-image:url(images/JamieAJ-061.jpg);&#34; data-stellar-background-ratio=&#34;0.5&#34; &gt;
+
+        &lt;div class=&#34;divider-overlay&#34;&gt;&lt;/div&gt;
+
+        &lt;!-- Use Center Middle Alignment to align middle the content for fixed-height parallax --&gt;
+        &lt;div class=&#34;alignment&#34;&gt; 
+          &lt;div class=&#34;v-align center-middle&#34;&gt;                  	
+
+            &lt;div class=&#34;container&#34;&gt;                 	 
+              &lt;div class=&#34;row&#34;&gt;
+                &lt;div class=&#34;col-md-12&#34;&gt;
+
+                  &lt;div class=&#34;animation fadeInUp&#34;&gt;
+                    &lt;div id=&#34;thank-you&#34;&gt;
+                      &lt;div id=&#34;thank&#34;&gt;Thank&lt;/div&gt;
+                      &lt;div id=&#34;you&#34;&gt;You&lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+
+                  &lt;div class=&#34;heart-divider animation delay1 fadeInUp&#34;&gt;
+                    &lt;span class=&#34;white-line&#34;&gt;&lt;/span&gt;
+                    &lt;i class=&#34;de-icon-heart pink-heart&#34;&gt;&lt;/i&gt;
+                    &lt;i class=&#34;de-icon-heart white-heart&#34;&gt;&lt;/i&gt;
+                    &lt;span class=&#34;white-line&#34;&gt;&lt;/span&gt;
+                  &lt;/div&gt;
+
+                  &lt;div id=&#34;footer-couple-name&#34; class=&#34;animation delay1 fadeInUp&#34;&gt;
+                    JAMIE &amp; ANDREW
+                  &lt;/div&gt;
+
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+
+          &lt;/div&gt;
+        &lt;/div&gt;
+
+      &lt;/div&gt;
+    &lt;/footer&gt;
+
+
+    {{ partial &#34;footer.html&#34; . }}
+  &lt;/body&gt;
+&lt;/html&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://jamieplusandrew.com/rsvp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jamieplusandrew.com/rsvp/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en&#34;&gt;
+	&lt;head&gt;
+    {{ partial &#34;header.html&#34; . }}
+	&lt;/head&gt;
+
+	&lt;body class=&#34;slider-title-page&#34;&gt;
+    {{ partial &#34;nav.html&#34; (dict &#34;navClass&#34; &#34;top-bar fluid-width block-color nav-center sticky-nav&#34;) }}
+    &lt;section id=&#34;content&#34;&gt;
+			&lt;div class=&#34;container&#34; style=&#34;margin-top: 4em;&#34;&gt;
+                &lt;form method=&#34;post&#34; action=&#34;rsvp.php&#34; id=&#34;rsvpform&#34;&gt;
+                &lt;!--TEXT SECTION--&gt;
+                &lt;div class=&#34;row&#34;&gt;
+                	&lt;div id=&#34;message&#34; class=&#34;col-md-offset-2 col-md-8 message&#34;&gt;
+                    	&lt;!-- Show Message --&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&#34;row&#34;&gt;
+                	&lt;div class=&#34;col-md-offset-2 col-md-8&#34;&gt;
+                    	
+                        	&lt;div class=&#34;row&#34;&gt;
+                            	&lt;div class=&#34;col-md-6&#34;&gt;
+                                	&lt;div class=&#34;form-group&#34;&gt;
+    									&lt;label for=&#34;inputname&#34;&gt;*FIRST NAME&lt;/label&gt;
+                                        &lt;div class=&#34;input-group&#34;&gt;
+     										&lt;div class=&#34;input-group-addon&#34;&gt;&lt;i class=&#34;de-icon-heart-empty&#34;&gt;&lt;/i&gt;&lt;/div&gt;
+    										&lt;input type=&#34;text&#34; class=&#34;form-control ajax-input&#34; id=&#34;inputname&#34; placeholder=&#34;&#34; data-required=&#34;First Name Required&#34; data-output-label=&#34;Output First Name&#34;&gt;
+                                        &lt;/div&gt;
+                                    &lt;/div&gt;
+                                &lt;/div&gt;
+                                &lt;div class=&#34;col-md-6&#34;&gt;
+                                	&lt;div class=&#34;form-group&#34;&gt;
+    									&lt;label for=&#34;inputname&#34;&gt;LAST NAME&lt;/label&gt;
+                                        &lt;div class=&#34;input-group&#34;&gt;
+     										&lt;div class=&#34;input-group-addon&#34;&gt;&lt;i class=&#34;de-icon-heart-empty&#34;&gt;&lt;/i&gt;&lt;/div&gt;
+    										&lt;input type=&#34;text&#34; class=&#34;form-control ajax-input&#34; id=&#34;inputlastname&#34; placeholder=&#34;&#34; data-required=&#34;&#34; data-output-label=&#34;Output Last Name&#34;&gt;
+                                        &lt;/div&gt;
+                                     &lt;/div&gt;
+                                &lt;/div&gt;
+                           
+                        &lt;/div&gt;
+                        &lt;div class=&#34;form-group&#34;&gt;
+    						&lt;label for=&#34;inputemail&#34;&gt;*EMAIL&lt;/label&gt;
+                            &lt;div class=&#34;input-group&#34;&gt;
+                            	&lt;div class=&#34;input-group-addon&#34;&gt;&lt;i class=&#34;de-icon-mail&#34;&gt;&lt;/i&gt;&lt;/div&gt;
+    							&lt;input type=&#34;email&#34; id=&#34;inputemail&#34;  class=&#34;form-control ajax-input&#34; placeholder=&#34;&#34; data-required=&#34;Email Required&#34; data-output-label=&#34;Output Email&#34;&gt;
+                          	&lt;/div&gt;
+ 						&lt;/div&gt;
+                        
+                        &lt;div class=&#34;form-group&#34;&gt;
+                            &lt;label&gt;*I WILL ATTEND TO&lt;/label&gt;
+                           	&lt;div id=&#34;events-checkbox&#34; class=&#34;ajax-input ajax-checkbox&#34; data-required=&#34;Please Select Events&#34; data-output-label=&#34;I will attend to&#34;&gt;
+                            	&lt;div class=&#34;btn-group&#34; data-toggle=&#34;buttons&#34;&gt;
+  									&lt;label class=&#34;btn btn-primary custom-option-icon&#34;&gt;
+    									&lt;input type=&#34;checkbox&#34; id=&#34;wedding-ceremony&#34; value=&#34;Wedding Ceremony&#34;&gt; Wedding Ceremony
+  									&lt;/label&gt;
+                               		&lt;label class=&#34;btn btn-primary custom-option-icon&#34;&gt;
+    									&lt;input type=&#34;checkbox&#34; id=&#34;wedding-party&#34; value=&#34;Wedding Party&#34;&gt; Wedding Party
+  									&lt;/label&gt;
+                                    &lt;label class=&#34;btn btn-primary custom-option-icon&#34;&gt;
+    									&lt;input type=&#34;checkbox&#34; id=&#34;dance-party&#34; value=&#34;Dance Party&#34;&gt; Dance Party
+  									&lt;/label&gt;
+                                &lt;/div&gt;
+							&lt;/div&gt; 
+                     	&lt;/div&gt;                         
+                        
+                        &lt;div class=&#34;form-group&#34;&gt;
+    						&lt;label for=&#34;inputmessage&#34;&gt;LEAVE YOUR MESSAGE&lt;/label&gt;
+    						&lt;textarea id=&#34;inputmessage&#34; class=&#34;form-control ajax-input&#34; rows=&#34;14&#34; data-output-label=&#34;Output Message&#34;&gt;&lt;/textarea&gt;
+ 						&lt;/div&gt;       
+                        
+                        &lt;div class=&#34;form-group submit-wrapper&#34;&gt;
+    						&lt;input type=&#34;submit&#34; id=&#34;submitButton&#34;  name=&#34;submitButton&#34; class=&#34;button medium reverse&#34; value=&#34;SUBMIT&#34; style=&#34;width:100%;&#34;&gt;
+ 						&lt;/div&gt;
+                              
+                    &lt;/div&gt;
+                   
+				&lt;/div&gt;&lt;!--END of TEXT SECTION--&gt;
+                
+              
+                &lt;/form&gt;
+           	&lt;/div&gt;&lt;!-- END of CONTAINER --&gt;    
+                        
+        &lt;/section&gt; &lt;!--END of CONTENT SECTION--&gt;        
+        
+        {{ partial &#34;footer.html&#34; . }}
+        
+	&lt;/body&gt;
+&lt;/html&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
