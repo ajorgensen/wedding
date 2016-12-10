@@ -10,6 +10,314 @@
     
     <item>
       <title></title>
+      <link>http://jamieplusandrew.com/accomodation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jamieplusandrew.com/accomodation/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en&#34;&gt;
+  &lt;head&gt;
+    {{ partial &#34;header.html&#34; . }}
+  &lt;/head&gt;
+
+  &lt;body class=&#34;slider-title-page&#34;&gt;
+    {{ partial &#34;nav.html&#34; (dict &#34;navClass&#34; &#34;top-bar fluid-width block-color nav-center sticky-nav&#34;) }}
+    &lt;!--CONTENT SECTION--&gt;
+    &lt;section id=&#34;content&#34;&gt;
+
+      &lt;!-- ICON --&gt;
+      &lt;div class=&#34;icon-title&#34;&gt;
+        &lt;div class=&#34;de-icon circle light large-size aligncenter&#34;&gt;
+          &lt;i class=&#34;de-icon-home&#34;&gt;&lt;/i&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+
+      &lt;!-- CONTAINER --&gt;
+      &lt;div class=&#34;container&#34;&gt;
+
+        &lt;!--ACCOMODTION-1--&gt;
+        &lt;div class=&#34;row animation fadeIn&#34; style=&#34;padding-bottom:60px&#34;&gt;
+          &lt;div class=&#34;col-md-offset-1 col-md-5 no-padding&#34;&gt;
+            &lt;div style=&#34;background-color:#FFF; padding:46px&#34;&gt;
+              &lt;h3&gt;GUEST ROOM SUITE&lt;/h3&gt;
+              &lt;span&gt;Foxegan Hotel&lt;br/&gt;&lt;br/&gt;&lt;/span&gt;
+              &lt;p&gt;
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ultrices malesuada ante quis pharetra. Nullam non bibendum dolor. Ut vel turpis accumsan, efficitur dolor fermentum, tincidunt metus. Etiam ut ultrices nibh.  Etiam aliquam mauris non hendrerit faucibus. Proin 
+              &lt;/p&gt; 
+            &lt;/div&gt;                      
+          &lt;/div&gt;
+          &lt;div class=&#34;col-md-5 no-padding&#34;&gt;
+            &lt;img src=&#34;http://placehold.it/474x356&#34; class=&#34;fullwidth&#34; alt=&#34;&#34;&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;&lt;!--END of TEXT SECTION--&gt;
+
+      &lt;/div&gt;&lt;!-- END of CONTAINER --&gt;    
+    &lt;/section&gt; &lt;!--END of CONTENT SECTION--&gt;        
+
+    {{ partial &#34;footer.html&#34; . }}
+  &lt;/body&gt;
+&lt;/html&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://jamieplusandrew.com/gift/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jamieplusandrew.com/gift/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en&#34;&gt;
+  &lt;head&gt;
+    {{ partial &#34;header.html&#34; . }}
+  &lt;/head&gt;
+
+  &lt;body class=&#34;slider-title-page&#34;&gt;
+    {{ partial &#34;nav.html&#34; (dict &#34;navClass&#34; &#34;top-bar fluid-width block-color nav-center sticky-nav&#34;) }}
+
+    &lt;!-- MAIN SLIDER --&gt;
+    &lt;section id=&#34;main-slider&#34; class=&#34;fixed-height&#34;&gt;      	
+
+      &lt;!-- MAIN SLIDER TITLE OUTTER WRAPPER --&gt;
+      &lt;div class=&#34;slide-title-outter-wrapper&#34;&gt;
+
+        &lt;!-- MAIN SLIDER TITLE INNER WRAPPER --&gt;
+        &lt;div class=&#34;slide-title-inner-wrapper&#34;&gt;
+
+          &lt;!-- TITLE 1  --&gt;
+          &lt;div class=&#34;slide-title align-bottom&#34;&gt;
+
+            &lt;div class=&#34;container&#34;&gt;
+              &lt;div class=&#34;row&#34;&gt;
+                &lt;div class=&#34;col-md-offset-2 col-md-8&#34;&gt;
+
+                  &lt;div class=&#34;page-title animation fadeInUp&#34;&gt;
+                    &lt;h1&gt;GIFT REGISTRY&lt;/h1&gt;
+
+                    &lt;div class=&#34;heart-divider&#34;&gt;
+                      &lt;span class=&#34;white-line&#34;&gt;&lt;/span&gt;
+                      &lt;i class=&#34;de-icon-heart pink-heart&#34;&gt;&lt;/i&gt;
+                      &lt;i class=&#34;de-icon-heart white-heart&#34;&gt;&lt;/i&gt;
+                      &lt;span class=&#34;white-line&#34;&gt;&lt;/span&gt;
+                    &lt;/div&gt;
+
+                    &lt;p&gt;
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ultrices malesuada ante quis pharetra. Nullam non bibendum dolor. Ut vel turpis accumsan, efficitur dolor fermentum, tincidunt metus. Etiam ut ultrices nibh.  Etiam aliquam mauris non hendrerit faucibus. Proin pulvinar congue  ex, vitae commodo. Phasellus condimentum, mi ut sodales gravida.
+                    &lt;/p&gt;
+
+                    &lt;a href=&#34;#content&#34; class=&#34;smooth-scroll&#34;&gt;                                        	
+                      &lt;i class=&#34;de-icon-down-open-big&#34; style=&#34;font-size:40px; color:#FFF&#34;&gt;&lt;/i&gt;                                            
+                    &lt;/a&gt;
+
+                  &lt;/div&gt;
+
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+
+          &lt;/div&gt;
+
+        &lt;/div&gt;&lt;!-- END of MAIN SLIDER TITLE INNER WRAPPER --&gt;
+
+      &lt;/div&gt; &lt;!-- END of MAIN SLIDER TITLE OUTTER WRAPPER --&gt;
+
+      &lt;!-- MAIN SLIDER IMAGES --&gt;            
+      &lt;div class=&#34;slides&#34;&gt;
+        &lt;!-- SLIDE IMAGE --&gt;
+        &lt;div data-stellar-ratio=&#34;0.5&#34; class=&#34;slide-image&#34; style=&#34;background-image:url(http://placehold.it/1920x1080);&#34;&gt;
+        &lt;/div&gt;
+
+        &lt;div class=&#34;slide-overlay&#34;&gt; &lt;/div&gt;    
+      &lt;/div&gt;	&lt;!-- END of MAIN SLIDER IMAGES --&gt;
+
+    &lt;/section&gt;&lt;!-- ENF of MAIN SLIDER --&gt;
+
+
+
+    &lt;!--CONTENT SECTION--&gt;
+    &lt;section id=&#34;content&#34;&gt;
+
+      &lt;!-- CONTAINER --&gt;
+      &lt;div class=&#34;container&#34;&gt;
+
+        &lt;!-- ROW-1 --&gt;
+        &lt;div class=&#34;row&#34;&gt;
+          &lt;div class=&#34;col-md-offset-1 col-md-10&#34;&gt;
+
+            &lt;!-- GIFT REGISTRY CAROUSEL --&gt;
+            &lt;div id=&#34;gift-registry&#34; class=&#34;owl-carousel&#34;&gt;
+
+              &lt;!-- ITEM-1 --&gt;
+              &lt;div class=&#34;item&#34;&gt;
+
+                &lt;!--PHOTO-ITEM--&gt;
+                &lt;div class=&#34;photo-item animation fadeIn&#34;&gt;
+
+                  &lt;!--PHOTO--&gt;
+                  &lt;img src=&#34;http://placehold.it/293x268&#34; alt=&#34;&#34; class=&#34;with-border&#34;&gt;
+
+                  &lt;!--PHOTO ITEM IMAGE OVERLAY--&gt;
+                  &lt;div class=&#34;layer wh95 second-image hover-animation fade-in&#34;&gt;
+                    &lt;img src=&#34;http://placehold.it/281x256&#34; alt=&#34;&#34;&gt;
+                  &lt;/div&gt;&lt;!--END of PHOTO OVERLAY--&gt;
+
+                  &lt;!--PHOTO OVERLAY--&gt;
+                  &lt;div class=&#34;layer wh95 hidden-black-overlay hover-animation half-fade-in&#34;&gt;
+                  &lt;/div&gt;&lt;!--END of PHOTO OVERLAY--&gt;
+
+                  &lt;!--ICON LINK--&gt;
+                  &lt;div class=&#34;layer wh100 hidden-link hover-animation delay1 fade-in&#34;&gt;
+                    &lt;div class=&#34;alignment&#34;&gt;
+                      &lt;div class=&#34;v-align center-middle&#34;&gt;
+
+                        &lt;a href=&#34;#&#34; class=&#34;de-button outline small&#34;&gt;SHOP NOW&lt;/a&gt;
+
+                      &lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;&lt;!--END of ICON LINK--&gt;
+
+                &lt;/div&gt;&lt;!--END of PHOTO-ITEM--&gt; 
+
+              &lt;/div&gt; &lt;!-- END of ITEM-1 --&gt;
+
+
+
+              &lt;!-- ITEM-2 --&gt;
+              &lt;div class=&#34;item&#34;&gt;
+
+                &lt;!--PHOTO-ITEM--&gt;
+                &lt;div class=&#34;photo-item animation fadeIn&#34;&gt;
+
+                  &lt;!--PHOTO--&gt;
+                  &lt;img src=&#34;http://placehold.it/293x268&#34; alt=&#34;&#34; class=&#34;with-border&#34;&gt;
+
+                  &lt;!--PHOTO ITEM IMAGE OVERLAY--&gt;
+                  &lt;div class=&#34;layer wh95 second-image hover-animation fade-in&#34;&gt;
+                    &lt;img src=&#34;http://placehold.it/281x256&#34; alt=&#34;&#34;&gt;
+                  &lt;/div&gt;&lt;!--END of PHOTO OVERLAY--&gt;
+
+                  &lt;!--PHOTO OVERLAY--&gt;
+                  &lt;div class=&#34;layer wh95 hidden-black-overlay hover-animation half-fade-in&#34;&gt;
+                  &lt;/div&gt;&lt;!--END of PHOTO OVERLAY--&gt;
+
+                  &lt;!--ICON LINK--&gt;
+                  &lt;div class=&#34;layer wh100 hidden-link hover-animation delay1 fade-in&#34;&gt;
+                    &lt;div class=&#34;alignment&#34;&gt;
+                      &lt;div class=&#34;v-align center-middle&#34;&gt;
+
+                        &lt;a href=&#34;#&#34; class=&#34;de-button outline small&#34;&gt;SHOP NOW&lt;/a&gt;
+
+                      &lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;&lt;!--END of ICON LINK--&gt;
+
+                &lt;/div&gt;&lt;!--END of PHOTO-ITEM--&gt; 
+
+              &lt;/div&gt; &lt;!-- END of ITEM-2 --&gt;
+
+
+
+              &lt;!-- ITEM-3 --&gt;
+              &lt;div class=&#34;item&#34;&gt;
+
+                &lt;!--PHOTO-ITEM--&gt;
+                &lt;div class=&#34;photo-item animation fadeIn&#34;&gt;
+
+                  &lt;!--PHOTO--&gt;
+                  &lt;img src=&#34;http://placehold.it/293x268&#34; alt=&#34;&#34; class=&#34;with-border&#34;&gt;
+
+                  &lt;!--PHOTO ITEM IMAGE OVERLAY--&gt;
+                  &lt;div class=&#34;layer wh95 second-image hover-animation fade-in&#34;&gt;
+                    &lt;img src=&#34;http://placehold.it/281x256&#34; alt=&#34;&#34;&gt;
+                  &lt;/div&gt;&lt;!--END of PHOTO OVERLAY--&gt;
+
+                  &lt;!--PHOTO OVERLAY--&gt;
+                  &lt;div class=&#34;layer wh95 hidden-black-overlay hover-animation half-fade-in&#34;&gt;
+                  &lt;/div&gt;&lt;!--END of PHOTO OVERLAY--&gt;
+
+                  &lt;!--ICON LINK--&gt;
+                  &lt;div class=&#34;layer wh100 hidden-link hover-animation delay1 fade-in&#34;&gt;
+                    &lt;div class=&#34;alignment&#34;&gt;
+                      &lt;div class=&#34;v-align center-middle&#34;&gt;
+
+                        &lt;a href=&#34;#&#34; class=&#34;de-button outline small&#34;&gt;SHOP NOW&lt;/a&gt;
+
+                      &lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;&lt;!--END of ICON LINK--&gt;
+
+                &lt;/div&gt;&lt;!--END of PHOTO-ITEM--&gt; 
+
+              &lt;/div&gt; &lt;!-- END of ITEM-3 --&gt;
+
+
+              &lt;!-- ITEM-4 --&gt;
+              &lt;div class=&#34;item&#34;&gt;
+
+                &lt;!--PHOTO-ITEM--&gt;
+                &lt;div class=&#34;photo-item animation fadeIn&#34;&gt;
+
+                  &lt;!--PHOTO--&gt;
+                  &lt;img src=&#34;http://placehold.it/293x268&#34; alt=&#34;&#34; class=&#34;with-border&#34;&gt;
+
+                  &lt;!--PHOTO ITEM IMAGE OVERLAY--&gt;
+                  &lt;div class=&#34;layer wh95 second-image hover-animation fade-in&#34;&gt;
+                    &lt;img src=&#34;http://placehold.it/281x256&#34; alt=&#34;&#34;&gt;
+                  &lt;/div&gt;&lt;!--END of PHOTO OVERLAY--&gt;
+
+                  &lt;!--PHOTO OVERLAY--&gt;
+                  &lt;div class=&#34;layer wh95 hidden-black-overlay hover-animation half-fade-in&#34;&gt;
+                  &lt;/div&gt;&lt;!--END of PHOTO OVERLAY--&gt;
+
+                  &lt;!--ICON LINK--&gt;
+                  &lt;div class=&#34;layer wh100 hidden-link hover-animation delay1 fade-in&#34;&gt;
+                    &lt;div class=&#34;alignment&#34;&gt;
+                      &lt;div class=&#34;v-align center-middle&#34;&gt;
+
+                        &lt;a href=&#34;#&#34; class=&#34;de-button outline small&#34;&gt;SHOP NOW&lt;/a&gt;
+
+                      &lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;&lt;!--END of ICON LINK--&gt;
+
+                &lt;/div&gt;&lt;!--END of PHOTO-ITEM--&gt; 
+
+              &lt;/div&gt; &lt;!-- END of ITEM-4 --&gt;
+
+            &lt;/div&gt; &lt;!-- END of GIFT REGISTRY CAROUSEL --&gt;
+
+          &lt;/div&gt;
+        &lt;/div&gt;&lt;!--END of ROW-1--&gt;
+
+
+        &lt;!-- ROW-2 --&gt;
+        &lt;div class=&#34;row&#34; style=&#34;padding-top:70px&#34;&gt;
+          &lt;div class=&#34;col-md-offset-2 col-md-8 text-center animation fadeIn&#34;&gt;
+            &lt;h3&gt;THANKS FOR THE GIFT. WE REALLY APPRECIATE IT.&lt;/h3&gt;
+            &lt;p class=&#34;blurb&#34;&gt;
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ultrices malesuada ante quis pharetra. Nullam non bibendum dolor. Ut vel turpis accumsan, efficitur dolor fermentum, tincidunt metus. Etiam ut ultrices nibh.  Etiam aliquam mauris non hendrerit faucibus. Proin pulvinar congue  ex, vitae commodo. Phasellus condimentum, mi ut sodales gravida.
+            &lt;/p&gt;
+            &lt;div class=&#34;heart-divider&#34;&gt;
+              &lt;span class=&#34;grey-line&#34;&gt;&lt;/span&gt;
+              &lt;i class=&#34;de-icon-heart pink-heart&#34;&gt;&lt;/i&gt;
+              &lt;i class=&#34;de-icon-heart grey-heart&#34;&gt;&lt;/i&gt;
+              &lt;span class=&#34;grey-line&#34;&gt;&lt;/span&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+
+      &lt;/div&gt; &lt;!-- END of CONTAINER --&gt;
+
+    &lt;/section&gt; &lt;!--END of CONTENT SECTION--&gt;        
+
+    {{ partial &#34;footer.html&#34; . }}
+  &lt;/body&gt;
+&lt;/html&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://jamieplusandrew.com/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -411,7 +719,7 @@
                         &lt;div class=&#34;alignment&#34;&gt;
                           &lt;div class=&#34;v-align center-middle&#34;&gt;
 
-                            &lt;a href=&#34;accomodation.html&#34; class=&#34;de-button outline small&#34;&gt;
+                            &lt;a href=&#34;accomodation&#34; class=&#34;de-button outline small&#34;&gt;
                               ACCOMODATION
                             &lt;/a&gt;
 
@@ -423,7 +731,7 @@
 
                     &lt;!-- TITLE &amp; EXCERPT --&gt;
                     &lt;div class=&#34;title-excerpt&#34;&gt;
-                      &lt;h3&gt;&lt;a href=&#34;accomodation.html&#34;&gt;ACCOMODATION&lt;/a&gt;&lt;/h3&gt;
+                      &lt;h3&gt;&lt;a href=&#34;accomodation&#34;&gt;ACCOMODATION&lt;/a&gt;&lt;/h3&gt;
                     &lt;/div&gt;
                     &lt;!-- END of TITLE &amp; EXCERPT --&gt;
 

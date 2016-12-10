@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {{ partial "header.html" . }}
+  </head>
+
+  <body class="slider-title-page">
+    {{ partial "nav.html" (dict "navClass" "top-bar fluid-width block-color nav-center sticky-nav") }}
+    <!--CONTENT SECTION-->
+    <section id="content">
+
+      <!-- ICON -->
+      <div class="icon-title">
+        <div class="de-icon circle light large-size aligncenter">
+          <i class="de-icon-home"></i>
+        </div>
+      </div>
+
+      <!-- CONTAINER -->
+      <div class="container">
+
+        <!--ACCOMODTION-1-->
+        <div class="row animation fadeIn" style="padding-bottom:60px">
+          <div class="col-md-offset-1 col-md-5 no-padding">
+            <div style="background-color:#FFF; padding:46px">
+              <h3>GUEST ROOM SUITE</h3>
+              <span>Foxegan Hotel<br/><br/></span>
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ultrices malesuada ante quis pharetra. Nullam non bibendum dolor. Ut vel turpis accumsan, efficitur dolor fermentum, tincidunt metus. Etiam ut ultrices nibh.  Etiam aliquam mauris non hendrerit faucibus. Proin 
+              </p> 
+            </div>                      
+          </div>
+          <div class="col-md-5 no-padding">
+            <img src="http://placehold.it/474x356" class="fullwidth" alt="">
+          </div>
+        </div><!--END of TEXT SECTION-->
+
+      </div><!-- END of CONTAINER -->    
+    </section> <!--END of CONTENT SECTION-->        
+
+    {{ partial "footer.html" . }}
+  </body>
+</html>
