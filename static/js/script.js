@@ -428,7 +428,25 @@ $(document).ready(function() {
 	// 11. RSVP
 	//==================================================================================
 	if ($("#rsvpform").length){
-		$("#rsvpform").ajaxrsvp();
+		$("#rsvpform").submit(function(e){
+			debugger
+			e.preventDefault();
+			$.ajax({
+				url: 'https://formspree.io/wedding@andrewjorgensen.com',
+				method: 'POST',
+				data: $(this).serialize(),
+				dataType: 'json',
+				beforeSend: function () {
+					console.log("sending data");
+				},
+				success: function (data) {
+					console.log("sending data successful");
+				},
+				error: function (err) {
+					console.log("sending data failed");
+				}
+			});
+		});
 	}
 
 	// 11.1 Custom Checkbox
