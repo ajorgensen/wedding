@@ -2,11 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://jamieplusandrew.com/accomodation/</loc>
+    <loc>http://jamieplusandrew.com/backup/accomodation/</loc>
   </url>
   
   <url>
-    <loc>http://jamieplusandrew.com/gift/</loc>
+    <loc>http://jamieplusandrew.com/backup/gift/</loc>
+  </url>
+  
+  <url>
+    <loc>http://jamieplusandrew.com/backup/</loc>
+  </url>
+  
+  <url>
+    <loc>http://jamieplusandrew.com/backup/location/</loc>
+  </url>
+  
+  <url>
+    <loc>http://jamieplusandrew.com/backup/rsvp/</loc>
   </url>
   
   <url>
@@ -14,11 +26,8 @@
   </url>
   
   <url>
-    <loc>http://jamieplusandrew.com/location/</loc>
-  </url>
-  
-  <url>
-    <loc>http://jamieplusandrew.com/rsvp/</loc>
+    <loc>http://jamieplusandrew.com/backup/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
