@@ -313,7 +313,7 @@ img.with-border{
 
 #nav-bar{
 	position:relative;
-	height:90px;
+	height:145px;
 	width:100%;
 	z-index:1000;
 	
@@ -354,7 +354,7 @@ img.with-border{
 
 #nav-bar.top-bar.stick-it{
 	position:fixed;
-	height:90px; 
+	height:145px; 
 	width:100%;
 	background-color:#FFF;
 	z-index:1500;
@@ -377,7 +377,7 @@ img.with-border{
 
 #nav-bar.bottom-bar.stick-it{
 	position:fixed;
-	height:90px; 
+	height:145px; 
 	width:100%;
 	background-color:#FFF;
 	z-index:1500;
@@ -417,7 +417,7 @@ img.with-border{
 #nav-menu{	
 	list-style-type:none; 
 	margin:0; 
-	padding:20px 0 0 0;
+	padding:45px 0 0 0;
 	font-family: 'Oswald', sans-serif;
 	font-size:13px;
 	z-index:1000;
@@ -624,7 +624,7 @@ img.with-border{
 /*-----------------------------------------------*/
 #menuicon-bar{
 	position:absolute;
-	height:90px; 
+	height:145px; 
 	z-index:1000;
 	background-color:transparent;
 	margin:auto;
@@ -925,7 +925,6 @@ img.with-border{
 #main-slider.fixed-height{
 	position:relative;
 	height:625px;
-  top:90px;
 }
 
 /* ----------------------------------------------*/
@@ -2627,10 +2626,6 @@ footer .image-divider.fixed-height{
 	vertical-align:top;
 }
 
-.interest-blurb a{
-  text-decoration: underline;
-}
-
 /* ----------------------------------------------*/
 /* 13.2 RSVP-2 Page				 			 	 */
 /* ----------------------------------------------*/
@@ -2718,7 +2713,7 @@ footer .image-divider.fixed-height{
 /* 14.3 Our Story Section						 */
 /* ----------------------------------------------*/
 #our-story{
-	padding: 140px 0
+	padding: 40px 0
 }
 
 .story-row.row {
