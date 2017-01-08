@@ -303,6 +303,25 @@ img.with-border{
 	border:1px solid #6a6a6a;
 }
 
+.dot-separator {
+  padding-left: 0px;
+}
+
+.dot-separator li {
+  display: inline; 
+  white-space: nowrap;
+}
+
+.dot-separator li:after {
+  content:'\00B7';
+  margin-left: 10px;
+  margin-right: 7px;
+}
+
+.dot-separator li:last-child:after {
+  content: none;
+}
+
 
 /*===============================================*/
 /* 02. NAV BAR  	 							 */
