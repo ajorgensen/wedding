@@ -1039,7 +1039,7 @@
       &lt;ul class=&#34;slides&#34;&gt;
         &lt;li&gt;
           &lt;!-- SLIDE IMAGE --&gt;
-          &lt;div data-stellar-ratio=&#34;0.5&#34; class=&#34;slide-image&#34; style=&#34;background-image:url(images/slider/JamieAJ-003.jpg);&#34;&gt;
+          &lt;div data-stellar-ratio=&#34;0.5&#34; class=&#34;slide-image&#34; style=&#34;background-image:url(images/slider/JamieAJ-003.png);&#34;&gt;
           &lt;/div&gt;
 
           &lt;!-- SLIDE OVERLAY --&gt;
@@ -1610,15 +1610,11 @@
     &lt;script src=&#34;js/magnific-popup/jquery.magnific-popup.js&#34;&gt;&lt;/script&gt;
     &lt;!-- Owl Carousel --&gt;
     &lt;script src=&#34;js/owlcarousel/owl.carousel.js&#34;&gt;&lt;/script&gt;
-    &lt;!-- Google Map --&gt;
-    &lt;script src=&#34;https://maps.googleapis.com/maps/api/js&#34;&gt;&lt;/script&gt;
-    &lt;script src=&#34;js/markerlabel/markerwithlabel.js&#34;&gt;&lt;/script&gt;
     &lt;!-- RSVP --&gt;
     &lt;script src=&#34;js/rsvp/rsvp.js&#34;&gt;&lt;/script&gt;
 
     &lt;!-- Custom Core Script --&gt;
     &lt;script type=&#34;text/javascript&#34; src=&#34;js/script.js&#34;&gt;&lt;/script&gt;
-    &lt;script type=&#34;text/javascript&#34; src=&#34;js/map-script.js&#34;&gt;&lt;/script&gt;
     &lt;!-- Custom Additional Script --&gt;
     &lt;script type=&#34;text/javascript&#34; src=&#34;js/main-slider-fade.js&#34;&gt;&lt;/script&gt;
 
