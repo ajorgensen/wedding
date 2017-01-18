@@ -1479,8 +1479,8 @@
           &lt;!-- FORM --&gt;
           &lt;div class=&#34;row&#34;&gt;
 
-            &lt;div class=&#34;alignment&#34; id=&#34;form-loading&#34; style=&#34;display: none&#34;&gt;
-              &lt;div class=&#34;v-align center-middle&#34;&gt;
+            &lt;div id=&#34;form-loading&#34; style=&#34;display: none&#34;&gt;
+              &lt;div class=&#34;center-middle&#34;&gt;
 
                 &lt;!-- LEFT HEART --&gt;
                 &lt;div class=&#34;heart-animation&#34;&gt;
