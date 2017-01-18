@@ -429,7 +429,6 @@ $(document).ready(function() {
 	//==================================================================================
 	if ($("#rsvpform").length){
 		$("#rsvpform").submit(function(e){
-			debugger
 			e.preventDefault();
 			$.ajax({
 				url: 'https://formspree.io/wedding@andrewjorgensen.com',
