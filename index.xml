@@ -956,7 +956,7 @@
     &lt;!-- Flexslider --&gt;
     &lt;link rel=&#34;stylesheet&#34; href=&#34;css/flexslider/flexslider.css&#34; type=&#34;text/css&#34;&gt;
     &lt;!-- Animate --&gt;
-    &lt;link rel=&#34;stylesheet&#34; href=&#34;css/animate/animate.css&#34; type=&#34;text/css&#34;&gt;       
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;css/animate/animate.css&#34; type=&#34;text/css&#34;&gt;
     &lt;!-- Countdown --&gt;
     &lt;link rel=&#34;stylesheet&#34; href=&#34;css/countdown/jquery.countdown.css&#34; type=&#34;text/css&#34;&gt;
     &lt;!-- Magnific Popup --&gt;
@@ -980,17 +980,17 @@
     &lt;div id=&#34;preloader&#34;&gt;
 
       &lt;div class=&#34;alignment&#34;&gt;
-        &lt;div class=&#34;v-align center-middle&#34;&gt; 
+        &lt;div class=&#34;v-align center-middle&#34;&gt;
 
           &lt;!-- LEFT HEART --&gt;
-          &lt;div class=&#34;heart-animation&#34;&gt;                	
+          &lt;div class=&#34;heart-animation&#34;&gt;
             &lt;i class=&#34;de-icon-heart&#34;&gt;&lt;/i&gt;
           &lt;/div&gt;
 
           &lt;!-- RIGHT HEART --&gt;
           &lt;div class=&#34;heart-animation-reverse&#34;&gt;
             &lt;i class=&#34;de-icon-heart&#34;&gt;&lt;/i&gt;
-          &lt;/div&gt;     
+          &lt;/div&gt;
 
         &lt;/div&gt;
       &lt;/div&gt;
@@ -999,7 +999,7 @@
 
 
     &lt;!-- MAIN SLIDER --&gt;
-    &lt;section id=&#34;main-slider&#34; class=&#34;flexslider fullscreen&#34;&gt;      	
+    &lt;section id=&#34;main-slider&#34; class=&#34;flexslider fullscreen&#34;&gt;
 
       &lt;!-- MAIN SLIDER TITLE OUTTER WRAPPER --&gt;
       &lt;div class=&#34;slide-title-outter-wrapper&#34;&gt;
@@ -1019,16 +1019,16 @@
                   &lt;/div&gt;
                   &lt;div class=&#34;banner-text withlove medium light&#34;&gt;
                     &lt;h1&gt;WE&#39;RE GETTING MARRIED&lt;/h1&gt;
-                  &lt;/div&gt;                                       
+                  &lt;/div&gt;
                   &lt;div id=&#34;banner-date&#34;&gt;
                     - SEPTEMBER / 29 / 2017 -
-                  &lt;/div&gt;     
+                  &lt;/div&gt;
 
-                &lt;/div&gt; 
+                &lt;/div&gt;
               &lt;/div&gt;
             &lt;/div&gt;
 
-          &lt;/div&gt; 
+          &lt;/div&gt;
 
         &lt;/div&gt;&lt;!-- END of MAIN SLIDER TITLE INNER WRAPPER --&gt;
 
@@ -1043,7 +1043,7 @@
           &lt;/div&gt;
 
           &lt;!-- SLIDE OVERLAY --&gt;
-          &lt;div class=&#34;slide-overlay&#34; style=&#34;opacity:0.2&#34;&gt; &lt;/div&gt; 
+          &lt;div class=&#34;slide-overlay&#34; style=&#34;opacity:0.2&#34;&gt; &lt;/div&gt;
 
         &lt;/li&gt;
 
@@ -1066,7 +1066,7 @@
 
             &lt;!-- LOGO --&gt;
             &lt;div class=&#34;logo-wrapper&#34;&gt;
-              &lt;!-- CSS LOGO --&gt; 
+              &lt;!-- CSS LOGO --&gt;
               &lt;a href=&#34;index.html&#34;&gt;
                 &lt;div class=&#34;css-logo rounded&#34;&gt;
                   &lt;div class=&#34;css-logo-text&#34;&gt;
@@ -1075,7 +1075,7 @@
                 &lt;/div&gt;
               &lt;/a&gt;
 
-              &lt;!-- IMG LOGO 
+              &lt;!-- IMG LOGO
               &lt;div class=&#34;img-logo&#34;&gt;
                 &lt;img src=&#34;images/slide1.jpg&#34;&gt;
               &lt;/div&gt;--&gt;
@@ -1089,7 +1089,7 @@
             &lt;ul id=&#34;nav-menu&#34; class=&#34;nav-smooth-scroll&#34;&gt;
               &lt;li class=&#34;first-child&#34;&gt;
                 &lt;a href=&#34;#main-slider&#34;&gt;HOME&lt;/a&gt;
-              &lt;/li&gt;                   			
+              &lt;/li&gt;
               &lt;li&gt;
                 &lt;a href=&#34;#our-story&#34;&gt;STORY&lt;/a&gt;
               &lt;/li&gt;
@@ -1170,7 +1170,7 @@
                 &lt;!--PHOTO OVERLAY--&gt;
                 &lt;div class=&#34;layer wh100 hidden-black-overlay hover-animation fade-in&#34;&gt;
                 &lt;/div&gt;&lt;!--END of PHOTO OVERLAY--&gt;
-              &lt;/div&gt;&lt;!--END of PHOTO-ITEM--&gt;   
+              &lt;/div&gt;&lt;!--END of PHOTO-ITEM--&gt;
             &lt;/div&gt;
 
             &lt;div class=&#34;col-md-6&#34;&gt;
@@ -1184,19 +1184,19 @@
                 &lt;!--PHOTO OVERLAY--&gt;
                 &lt;div class=&#34;layer wh100 hidden-black-overlay hover-animation fade-in&#34;&gt;
                 &lt;/div&gt;&lt;!--END of PHOTO OVERLAY--&gt;
-              &lt;/div&gt;&lt;!--END of PHOTO-ITEM--&gt;    
+              &lt;/div&gt;&lt;!--END of PHOTO-ITEM--&gt;
 
             &lt;/div&gt;
           &lt;/div&gt;
 
         &lt;/div&gt;
-      &lt;/section&gt;  
+      &lt;/section&gt;
 
       &lt;!-- PHOTO DIVIDER --&gt;
       &lt;section id=&#34;photo-divider-1&#34;&gt;
         &lt;div class=&#34;image-divider fixed-height&#34; style=&#34;background-image:url(/images/JamieAJ-052.png); height:500px&#34; data-stellar-background-ratio=&#34;0.3&#34;&gt;
         &lt;/div&gt;
-      &lt;/section&gt;     
+      &lt;/section&gt;
 
       &lt;!-- WHERE WHEN SECTION --&gt;
       &lt;section id=&#34;where-when&#34;&gt;
@@ -1250,7 +1250,7 @@
                     &lt;/h3&gt;
                   &lt;/div&gt;
                 &lt;/div&gt;
-              &lt;/div&gt;    
+              &lt;/div&gt;
             &lt;/div&gt;
           &lt;/div&gt; &lt;!-- END of ROW-2 --&gt;
 
@@ -1271,7 +1271,7 @@
                 &lt;i class=&#34;de-icon-home-1&#34;&gt;&lt;/i&gt;
               &lt;/div&gt;
               &lt;h3 class=&#34;inline&#34;&gt;ACCOMODATION&lt;/h3&gt;
-              &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ultrices malesuada ante quis pharetra. Nullam non bibendum dolor. Ut vel turpis accumsan, efficitur dolor fermentum, tincidunt metus. Etiam ut ultrices nibh.  Etiam aliquam mauris non hendrerit faucibus. Proin pulvinar congue&lt;/p&gt;                            
+              &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ultrices malesuada ante quis pharetra. Nullam non bibendum dolor. Ut vel turpis accumsan, efficitur dolor fermentum, tincidunt metus. Etiam ut ultrices nibh.  Etiam aliquam mauris non hendrerit faucibus. Proin pulvinar congue&lt;/p&gt;
             &lt;/div&gt;
 
 						&lt;div class=&#34;col-md-6 animation fadeIn&#34;&gt;
@@ -1283,7 +1283,7 @@
                 &lt;!--PHOTO OVERLAY--&gt;
                 &lt;div class=&#34;layer wh100 hidden-black-overlay hover-animation fade-in&#34;&gt;
                 &lt;/div&gt;&lt;!--END of PHOTO OVERLAY--&gt;
-              &lt;/div&gt;&lt;!--END of PHOTO-ITEM--&gt;    
+              &lt;/div&gt;&lt;!--END of PHOTO-ITEM--&gt;
 						&lt;/div&gt;
 
           &lt;/div&gt; &lt;!-- END of ROW-3 --&gt;
@@ -1377,11 +1377,11 @@
       &lt;section id=&#34;dont-miss-it&#34;&gt;
         &lt;div class=&#34;image-divider auto-height&#34; style=&#34;background-image:url(/images/gibbet-hill-1920-1080.jpg);&#34; data-stellar-background-ratio=&#34;0.3&#34;&gt;
 
-          &lt;div class=&#34;container&#34;&gt;                 	 
+          &lt;div class=&#34;container&#34;&gt;
             &lt;div class=&#34;row&#34;&gt;
-              &lt;div class=&#34;col-md-offset-2 col-md-8&#34;&gt;                   	
+              &lt;div class=&#34;col-md-offset-2 col-md-8&#34;&gt;
 
-                &lt;h2 id=&#34;dont-miss-it-title&#34; class=&#34;text-center animation fadeInUp&#34;&gt;Counting Down!&lt;/h2&gt;                               
+                &lt;h2 id=&#34;dont-miss-it-title&#34; class=&#34;text-center animation fadeInUp&#34;&gt;Counting Down!&lt;/h2&gt;
 
                 &lt;div class=&#34;text-center animation fadeInUp&#34;&gt;
                   &lt;p&gt;&lt;/p&gt;
@@ -1391,7 +1391,7 @@
             &lt;/div&gt;
 
             &lt;div class=&#34;row&#34;&gt;
-              &lt;div class=&#34;col-md-offset-3 col-md-6&#34;&gt;                   	
+              &lt;div class=&#34;col-md-offset-3 col-md-6&#34;&gt;
 
                 &lt;div id=&#34;date-countdown&#34; class=&#34;circle-countdown animation fadeInUp&#34;&gt;&lt;/div&gt;
 
@@ -1420,7 +1420,7 @@
                 &lt;/h2&gt;
 
                 &lt;p&gt;
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ultrices malesuada ante quis pharetra. Nullam notn bibendum dolor. Ut vel turpis accumsan, efficitur dolor fermentum, tincidunt metus. Etiam ut ultrices nibh.  Etiam aliquam mauris non hendrerit faucibus. Proin pulvinar congue  ex, vitae 
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ultrices malesuada ante quis pharetra. Nullam notn bibendum dolor. Ut vel turpis accumsan, efficitur dolor fermentum, tincidunt metus. Etiam ut ultrices nibh.  Etiam aliquam mauris non hendrerit faucibus. Proin pulvinar congue  ex, vitae
                 &lt;/p&gt;
 
 
@@ -1458,7 +1458,7 @@
                 &lt;/h2&gt;
 
                 &lt;p&gt;
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ultrices malesuada ante quis pharetra. Nullam notn bibendum dolor. Ut vel turpis accumsan, efficitur dolor fermentum, tincidunt metus. Etiam ut ultrices nibh.  Etiam aliquam mauris non hendrerit faucibus. Proin pulvinar congue  ex, vitae 
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ultrices malesuada ante quis pharetra. Nullam notn bibendum dolor. Ut vel turpis accumsan, efficitur dolor fermentum, tincidunt metus. Etiam ut ultrices nibh.  Etiam aliquam mauris non hendrerit faucibus. Proin pulvinar congue  ex, vitae
                 &lt;/p&gt;
 
 
@@ -1470,21 +1470,21 @@
           &lt;div class=&#34;row&#34;&gt;
             &lt;div id=&#34;message&#34; class=&#34;col-md-12 message&#34;&gt; &lt;!-- Show Message --&gt; &lt;/div&gt;
 
-            &lt;form method=&#34;post&#34; action=&#34;#todo&#34; id=&#34;rsvpform&#34;&gt;
+            &lt;form method=&#34;post&#34; action=&#34;https://formspree.io/wedding@andrewjorgensen.com  &#34; id=&#34;rsvpform&#34;&gt;
               &lt;div class=&#34;col-md-6 col-md-offset-3&#34;&gt;
                 &lt;div id=&#34;fullname&#34; class=&#34;form-group&#34;&gt;
                   &lt;label for=&#34;inputname&#34;&gt;*NAME&lt;/label&gt;
-                  &lt;input type=&#34;text&#34; class=&#34;form-control ajax-input&#34; id=&#34;inputname&#34; placeholder=&#34;&#34; data-required=&#34;Name Required&#34; data-output-label=&#34;Output Name&#34;&gt;
+                  &lt;input type=&#34;text&#34; class=&#34;form-control ajax-input&#34; id=&#34;inputname&#34; placeholder=&#34;&#34; data-required=&#34;Name Required&#34; data-output-label=&#34;Output Name&#34; name=&#34;name&#34;&gt;
                 &lt;/div&gt;
                 &lt;div id=&#34;email&#34; class=&#34;form-group&#34;&gt;
                   &lt;label for=&#34;inputemail&#34;&gt;*EMAIL&lt;/label&gt;
-                  &lt;input type=&#34;email&#34; class=&#34;form-control ajax-input&#34; id=&#34;inputemail&#34; placeholder=&#34;&#34; data-required=&#34;Email Required&#34; data-output-label=&#34;Output Email&#34;&gt;
+                  &lt;input type=&#34;email&#34; class=&#34;form-control ajax-input&#34; id=&#34;inputemail&#34; placeholder=&#34;&#34; data-required=&#34;Email Required&#34; data-output-label=&#34;Output Email&#34; name=&#34;email&#34;&gt;
                 &lt;/div&gt;
               &lt;/div&gt;
               &lt;div class=&#34;col-md-12 text-center&#34;&gt;
                 &lt;div class=&#34;form-group&#34;&gt;
                   &lt;input type=&#34;submit&#34; id=&#34;submitButton&#34;  name=&#34;submitButton&#34; class=&#34;button medium reverse&#34; value=&#34;SUBMIT&#34;&gt;
-                &lt;/div&gt; 
+                &lt;/div&gt;
               &lt;/div&gt;
             &lt;/form&gt;
 
@@ -1501,10 +1501,10 @@
         &lt;div class=&#34;divider-overlay&#34;&gt;&lt;/div&gt;
 
         &lt;!-- Use Center Middle Alignment to align middle the content for fixed-height parallax --&gt;
-        &lt;div class=&#34;alignment&#34;&gt; 
-          &lt;div class=&#34;v-align center-middle&#34;&gt;                  	
+        &lt;div class=&#34;alignment&#34;&gt;
+          &lt;div class=&#34;v-align center-middle&#34;&gt;
 
-            &lt;div class=&#34;container&#34;&gt;                 	 
+            &lt;div class=&#34;container&#34;&gt;
               &lt;div class=&#34;row&#34;&gt;
                 &lt;div class=&#34;col-md-12&#34;&gt;
 
@@ -1540,21 +1540,21 @@
     &lt;!-- jQuery --&gt;
     &lt;script src=&#34;js/jquery-1.11.1.min.js&#34;&gt;&lt;/script&gt;
     &lt;!-- Pace --&gt;
-    &lt;script src=&#34;js/pace/pace.min.js&#34;&gt;&lt;/script&gt; 
+    &lt;script src=&#34;js/pace/pace.min.js&#34;&gt;&lt;/script&gt;
     &lt;!-- Bootstrap --&gt;
-    &lt;script src=&#34;js/bootstrap/bootstrap.js&#34;&gt;&lt;/script&gt;    
+    &lt;script src=&#34;js/bootstrap/bootstrap.js&#34;&gt;&lt;/script&gt;
     &lt;!-- Modernizr --&gt;
-    &lt;script src=&#34;js/modernizr/modernizr.js&#34;&gt;&lt;/script&gt;  
+    &lt;script src=&#34;js/modernizr/modernizr.js&#34;&gt;&lt;/script&gt;
     &lt;!-- Device JS --&gt;
-    &lt;script src=&#34;js/devicejs/device.js&#34;&gt;&lt;/script&gt;  
+    &lt;script src=&#34;js/devicejs/device.js&#34;&gt;&lt;/script&gt;
     &lt;!-- TinyNav --&gt;
     &lt;script src=&#34;js/tinynav/tinynav.min.js&#34;&gt;&lt;/script&gt;
     &lt;!-- SmoothScroll --&gt;
     &lt;script src=&#34;js/smoothscroll/jquery.smooth-scroll.js&#34;&gt;&lt;/script&gt;
     &lt;!-- Flexslider --&gt;
-    &lt;script src=&#34;js/flexslider/jquery.flexslider.js&#34;&gt;&lt;/script&gt;  
+    &lt;script src=&#34;js/flexslider/jquery.flexslider.js&#34;&gt;&lt;/script&gt;
     &lt;!-- Sticky --&gt;
-    &lt;script src=&#34;js/sticky/jquery.sticky.js&#34;&gt;&lt;/script&gt;  
+    &lt;script src=&#34;js/sticky/jquery.sticky.js&#34;&gt;&lt;/script&gt;
     &lt;!-- Waypoint --&gt;
     &lt;script src=&#34;js/waypoint/jquery.waypoints.min.js&#34;&gt;&lt;/script&gt;
     &lt;!-- DoubleTapToGo --&gt;
@@ -1580,8 +1580,8 @@
     &lt;script src=&#34;js/rsvp/rsvp.js&#34;&gt;&lt;/script&gt;
 
     &lt;!-- Custom Core Script --&gt;
-    &lt;script type=&#34;text/javascript&#34; src=&#34;js/script.js&#34;&gt;&lt;/script&gt;        
-    &lt;script type=&#34;text/javascript&#34; src=&#34;js/map-script.js&#34;&gt;&lt;/script&gt; 
+    &lt;script type=&#34;text/javascript&#34; src=&#34;js/script.js&#34;&gt;&lt;/script&gt;
+    &lt;script type=&#34;text/javascript&#34; src=&#34;js/map-script.js&#34;&gt;&lt;/script&gt;
     &lt;!-- Custom Additional Script --&gt;
     &lt;script type=&#34;text/javascript&#34; src=&#34;js/main-slider-fade.js&#34;&gt;&lt;/script&gt;
 
