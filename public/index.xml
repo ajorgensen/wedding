@@ -1194,7 +1194,7 @@
 
       &lt;!-- PHOTO DIVIDER --&gt;
       &lt;section id=&#34;photo-divider-1&#34;&gt;
-        &lt;div class=&#34;image-divider fixed-height&#34; style=&#34;background-image:url(/images/JamieAJ-052.png); height:500px&#34; data-stellar-background-ratio=&#34;0.3&#34;&gt;
+        &lt;div class=&#34;image-divider fixed-height&#34; style=&#34;background-image:url(/images/JamieAJ-052.png); background-position: 37% 100%; height:500px&#34; data-stellar-background-ratio=&#34;0.3&#34;&gt;
         &lt;/div&gt;
       &lt;/section&gt;
 
